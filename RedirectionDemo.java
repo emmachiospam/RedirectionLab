@@ -9,6 +9,7 @@ public class RedirectionDemo{
         line = n.next();
         System.out.println(line);
       }
+      //
       //use hasNextLine()/nextLine() to loop over
       //all of the data
 
