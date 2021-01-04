@@ -18,4 +18,5 @@ public class MakeStars{
       System.out.println(starword);
     }
   }
+
 }
